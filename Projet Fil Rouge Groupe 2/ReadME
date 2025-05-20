@@ -1,0 +1,10 @@
+Lien des données (trop lourds pour git) : 
+
+Fraud Detection :
+https://huggingface.co/datasets/Nooha/cc_fraud_detection_dataset
+Fraud Payement :
+https://huggingface.co/datasets/saifhmb/FraudPaymentData
+
+Le rapport Power BI est trop lourd donc il est en pdf mais les graphiques animés faits en html ne sont pas affichés.
+
+Les détails des traitements se trouvent dans le rapport.
